@@ -1,8 +1,8 @@
 ## Hi, I'm Blake 👋
 
-🖥️ First Year Student at NSCC Burridge for IT Programming
-🌍 🗣️ Bilingual English and French
-📫 How To Reach Me: blakethibeault72@gmail.com
+🖥️ First Year Student at NSCC Burridge for IT Programming<br/>
+🌍 🗣️ Bilingual English and French<br/>
+📫 How To Reach Me: blakethibeault72@gmail.com<br/>
 
 
 
